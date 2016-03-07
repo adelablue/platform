@@ -3,7 +3,7 @@
     min-height: 70vh;
     text-align: center;
     color: #fff;
-    background-image: url('images/gfx_intro.jpg');
+    background-image: url('https://github.com/refugeetech/platform/blob/develop/public/images/gfx_intro.jpg?raw=true'); /* adding https://github.com/refugeetech/platform/blob/develop/public/ to each image url */
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
